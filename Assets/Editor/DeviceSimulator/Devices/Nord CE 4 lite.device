@@ -1,0 +1,103 @@
+{
+    "friendlyName": "OnePlus Nord CE 4 Lite",
+    "version": 1,
+    "screens": [
+        {
+            "width": 1080,
+            "height": 2400,
+            "navigationBarHeight": 44,
+            "dpi": 394,
+            "orientations": [
+                {
+                    "orientation": 1,
+                    "safeArea": {
+                        "serializedVersion": "2",
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1080.0,
+                        "height": 2400.0
+                    },
+                    "cutouts": []
+                },
+                {
+                    "orientation": 2,
+                    "safeArea": {
+                        "serializedVersion": "2",
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 1080.0,
+                        "height": 2400.0
+                    },
+                    "cutouts": []
+                },
+                {
+                    "orientation": 3,
+                    "safeArea": {
+                        "serializedVersion": "2",
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 2400.0,
+                        "height": 1080.0
+                    },
+                    "cutouts": []
+                },
+                {
+                    "orientation": 4,
+                    "safeArea": {
+                        "serializedVersion": "2",
+                        "x": 0.0,
+                        "y": 0.0,
+                        "width": 2400.0,
+                        "height": 1080.0
+                    },
+                    "cutouts": []
+                }
+            ],
+            "presentation": {
+                "overlayPath": "DeviceOverlays/OnePlus_Nord_CE_4_Lite_Overlay.png",
+                "borderSize": {
+                    "x": 52.0,
+                    "y": 173.0,
+                    "z": 52.0,
+                    "w": 87.0
+                },
+                "cornerRadius": 121.0
+            }
+        }
+    ],
+    "systemInfo": {
+        "deviceModel": "OnePlus Nord CE 4 Lite",
+        "deviceType": 1,
+        "operatingSystem": "Android 15",
+        "operatingSystemFamily": 0,
+        "processorCount": 8,
+        "processorFrequency": 2800,
+        "processorType": "ARM64 FP ASIMD AES",
+        "supportsAccelerometer": true,
+        "supportsAudio": true,
+        "supportsGyroscope": true,
+        "supportsLocationService": true,
+        "supportsVibration": true,
+        "systemMemorySize": 8192,
+        "graphicsDependentData": [
+            {
+                "graphicsDeviceType": 11,
+                "graphicsMemorySize": 2048,
+                "graphicsDeviceName": "Adreno 619",
+                "graphicsDeviceVendor": "Qualcomm",
+                "graphicsDeviceVersion": "OpenGL ES 3.2",
+                "graphicsShaderLevel": 50,
+                "supportsShadows": true
+            },
+            {
+                "graphicsDeviceType": 21,
+                "graphicsMemorySize": 1624,
+                "graphicsDeviceName": "Adreno 619",
+                "graphicsDeviceVendor": "Qualcomm",
+                "graphicsDeviceVersion": "Vulkan 1.1.0",
+                "graphicsShaderLevel": 50,
+                "supportsShadows": true
+            }
+        ]
+    }
+}
